@@ -2,7 +2,7 @@
 
 <img src=RESUME.jpg width=200 height=210>
 
-#### 이름 : 김동현 (Kim dong hyun)
+#### Name : 김동현 (Kim dong hyun)
 #### Email : core0210@naver.com
 #### University : Hallym university
 #### Department : Software Convergence
