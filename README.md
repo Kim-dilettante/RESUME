@@ -2,9 +2,15 @@
 
 ##  개인 이력사항
 
+
+![linux icon](/linux.jpg)
+<img src=linux.jpg width=200 height=210>
+
 #### 이름 : 김동현
 #### email : core0210@naver.com
 #### university : hallym university
+#### 소속 : 소프트웨어융합대학
+#### 전공 : 콘텐츠IT 전공
 
 >  취미  
 >> 수영  
@@ -21,11 +27,6 @@
 * 오픈소스
 * 유니티
 * 웹프로그래밍
-
-![linux icon](/linux.jpg)
-<img src=linux.jpg width=200 height=210>
-
-
 -------------------
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)
