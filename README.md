@@ -44,12 +44,12 @@
 |2|C|비주얼스튜디오|
 |3|C++|비주얼스튜디오|
 
-### github address:
+### github address: [Kim-dilettante][Kim]
 
 [eclipse]: http://www.eclipse.org
 [Google]: http://www.google.com
 [Naver]: http://www.naver.com
 [Hallym]: http://www.hallym.ac.kr
-[Kim-dilettante]: http://www.
+[Kim]: https://github.com/Kim-dilettante
 
 
