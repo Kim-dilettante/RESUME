@@ -24,4 +24,15 @@
 -----------------
 * jupyter notebook
 * tensorflow
+----
+### 관심있는 사이트 목록
+[한림대학교][Hallym]
 
+### 주요 검색 사이트
+[구글][Google]  
+[네이버][Naver]
+
+
+[Google]: http://www.google.com
+[Naver]: http://www.naver.com
+[Hallym]: http://www.hallym.ac.kr
