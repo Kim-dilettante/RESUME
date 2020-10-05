@@ -1,7 +1,6 @@
 # RESUME ( Kim-dilettante )
 
-![linux icon](/linux.jpg)
-<img src=linux.jpg width=200 height=210>
+<img src=RESUME.jpg width=200 height=210>
 
 #### 이름 : 김동현 (Kim dong hyun)
 #### Email : core0210@naver.com
