@@ -21,6 +21,11 @@
 * 오픈소스
 * 유니티
 * 웹프로그래밍
+
+![linux icon](/linux.jpg)
+<img src=linux.jpg width=200 height=210>
+
+
 -------------------
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)
