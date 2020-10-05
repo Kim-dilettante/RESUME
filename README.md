@@ -21,3 +21,7 @@
 * 오픈소스
 * 유니티
 * 웹프로그래밍
+-----------------
+* jupyter notebook
+* tensorflow
+
