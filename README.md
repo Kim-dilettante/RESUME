@@ -1,8 +1,5 @@
 # RESUME ( Kim-dilettante )
 
-##  개인 이력사항
-
-
 ![linux icon](/linux.jpg)
 <img src=linux.jpg width=200 height=210>
 
@@ -47,9 +44,12 @@
 |2|C|비주얼스튜디오|
 |3|C++|비주얼스튜디오|
 
-
+### github address:
 
 [eclipse]: http://www.eclipse.org
 [Google]: http://www.google.com
 [Naver]: http://www.naver.com
 [Hallym]: http://www.hallym.ac.kr
+[Kim-dilettante]: http://www.
+
+
